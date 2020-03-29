@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'You2013-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('You2013 Regular'), url('../fonts/You2013/You2013-Regular.woff') format('woff');
+}
